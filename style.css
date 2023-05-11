@@ -14,7 +14,7 @@
 }
 
 body {
-  background: url("./images/bg-desktop.svg");
+  background: url("./bg-desktop.svg");
   background-color: var(--violet);
   color: white;
 }
